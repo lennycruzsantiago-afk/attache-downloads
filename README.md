@@ -5,9 +5,9 @@ This repository holds releases only -- no source.
 
 ## Latest
 
-**Attache 0.2.3 for Windows 10/11 (64-bit) -- 1.8 GB**
+**Attache 0.2.5 for Windows 10/11 (64-bit) -- 1.8 GB**
 
-[Download](https://github.com/lennycruzsantiago-afk/attache-downloads/releases/download/v0.2.3/Attache-Setup-0.2.3.exe)
+[Download](https://github.com/lennycruzsantiago-afk/attache-downloads/releases/download/v0.2.5/Attache-Setup-0.2.5.exe)
 
 Both models are inside the download -- the one that answers and the one that
 remembers -- so Attache works as soon as it finishes installing: no account,
@@ -17,7 +17,7 @@ roughly 3 GB of free RAM while answering.
 SHA-256
 
 ```
-d68ecaa2655e65a8355ec68a71eac5e563069518ae1120a23aeb2f13e8aa2472
+7fbe2ad7f6cf950a7e6d0f9c482986cfdadd755edf44860fdfb0304a3af96bdf
 ```
 
 Windows will warn before running it -- the build is not code-signed yet.
